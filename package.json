@@ -1,6 +1,7 @@
 {
-  "name": "r3f-app",
+  "name": "r3f-practice-debug",
   "version": "0.0.0",
+  "description": "React Three Fiber デバッグ練習プロジェクト",
   "private": true,
   "type": "module",
   "scripts": {
